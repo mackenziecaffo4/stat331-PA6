@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Ben Marshburn, Laney Hall, Kenzie Caffo"
 format: html
 editor: visual
 embed-resources: true
@@ -21,7 +22,7 @@ You can add options to executable code like this
 
 ```{r}
 #| echo: false
-2 * 2
+13 * 13
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
